@@ -1,5 +1,5 @@
 # Cryptocurrencies
-# Unsupervised Machine Learning to identify potentially the best crypto investments opportunities.
+# Unsupervised Machine Learning to identify the best crypto investments opportunities.
 
 ## Background
 This is an exercise for a fictitious company Accountability Accounting, who is interested in offering a new cryptocurrency investment portfolio. It desired to make a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
